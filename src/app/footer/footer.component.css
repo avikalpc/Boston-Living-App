@@ -1,0 +1,13 @@
+a{
+  padding: 20px 10px;
+}
+.main{
+  border-top: 3px solid  rgb(52, 52, 52);
+  background-color:burlywood;
+  margin-top: 50px;
+ 
+}
+*{
+  margin:0;
+  padding:0;
+}

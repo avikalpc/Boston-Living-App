@@ -1,0 +1,42 @@
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+li{
+  list-style-type: none;
+  padding: 30px 15px;
+}
+.nav1{
+  background-color:burlywood;
+  height: 100vh;
+
+  
+}
+.hed1{
+   background-color:burlywood;
+   display: flex;
+   justify-content: center;
+   position: sticky;
+   top: 0%;
+   z-index: 1;
+   
+}
+h1{
+  position: sticky;
+  top: 0%;
+  color:black;
+}
+.nav1{
+  position: sticky;
+  top:0px;
+  left:0px;
+  box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+  
+}
+ul{
+  position: fixed;
+}
+
+
